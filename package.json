@@ -37,7 +37,7 @@
     "http": "0.0.1-security",
     "i": "^0.3.6",
     "jquery": "^3.5.1",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "just-handlebars-helpers": "^1.0.18",
     "method-override": "^3.0.0",
     "minimist": "^1.2.5",
